@@ -1,0 +1,21 @@
+Arabic text, transliteration and English translation in this app
+
+Arabic text (Uthmani script) and the transliteration are from the Tanzil
+Project, https://tanzil.net, licensed under the Creative Commons
+Attribution 3.0 license (https://creativecommons.org/licenses/by/3.0/).
+Unmodified.
+
+The English translation is Mohammed Marmaduke Pickthall's "The Meaning
+of the Glorious Qur'an" (1930). It is in the public domain (UK since
+2007; US since January 1, 2026, per the 95-year rule for works
+published before 1930). Quoted unchanged.
+
+This app, Ayah, is an independent reading tool. It is not affiliated
+with the Tanzil Project, Pickthall's estate, Versling, or any other
+Quran app.
+
+The underlying ayah data (Arabic / transliteration / translation /
+surah metadata) was ported verbatim from the already-cleared dataset
+shipped in the sibling product Versling (~/products/versling,
+public/data/surah-*.json, public/data/surahs.json), which sourced it
+the same way described above. No content was re-derived or fabricated.
